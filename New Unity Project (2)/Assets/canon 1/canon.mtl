@@ -1,0 +1,127 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 03.06.2008 22:49:32
+
+newmtl lavet
+	Ns 44.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6745 0.2510 0.2510
+	Ks 0.2515 0.2515 0.2515
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\upload\Converted\kanon\lav.jpg
+	map_Kd D:\upload\Converted\kanon\lav.jpg
+	map_bump LAV.JPG
+	bump LAV.JPG
+
+newmtl nj
+	Ns 92.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8431 0.8431 0.8431
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\upload\Converted\kanon\bolt.jpg
+	map_Kd D:\upload\Converted\kanon\bolt.jpg
+	map_bump BOLT.JPG
+	bump BOLT.JPG
+
+newmtl Wood_Ash
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5804 0.4118 0.1961
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\3ds Max 2009\maps\Wood\TUTASH.JPG
+	map_Kd J:\3ds Max 2009\maps\Wood\TUTASH.JPG
+	map_bump J:\3ds Max 2009\maps\Wood\TUTASH.JPG
+	bump J:\3ds Max 2009\maps\Wood\TUTASH.JPG
+
+newmtl CANVAS
+	Ns 1.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2196 0.1176 0.0235
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka J:\3ds Max 2009\maps\Wood\OAKQRTRT.TGA
+	map_Kd J:\3ds Max 2009\maps\Wood\OAKQRTRT.TGA
+
+newmtl atov
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2078 0.1412 0.0980
+	Ks 0.2874 0.2874 0.2874
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 9___Default
+	Ns 68.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1686 0.0824 0.0000
+	Ks 0.7633 0.7633 0.7633
+	Ke 0.0000 0.0000 0.0000
+
+newmtl atov1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2078 0.1412 0.0980
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Metal_Black_Plai
+	Ns 26.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.6825 0.6825 0.6825
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\upload\Converted\kanon\metal16.jpg
+	map_Kd D:\upload\Converted\kanon\metal16.jpg
+	map_bump -bm 0.0600 Map__10_Speckle.tga
+
+newmtl tov_anker
+	Ns 39.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7608 0.6392 0.5059
+	Ks 0.3053 0.3053 0.3053
+	Ke 0.0000 0.0000 0.0000

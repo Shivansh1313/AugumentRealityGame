@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 11e67605156ac87499f88717be3704dc
+timeCreated: 1516834487
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box04
+    100002: Helix07
+    100004: Helix08
+    100006: //RootNode
+    100008: kanon06
+    100010: Line11
+    100012: tacle07
+    100014: tacle08
+    100016: Torus01
+    100018: Torus14
+    100020: Torus15
+    100022: Torus16
+    100024: Torus17
+    100026: Torus18
+    400000: Box04
+    400002: Helix07
+    400004: Helix08
+    400006: //RootNode
+    400008: kanon06
+    400010: Line11
+    400012: tacle07
+    400014: tacle08
+    400016: Torus01
+    400018: Torus14
+    400020: Torus15
+    400022: Torus16
+    400024: Torus17
+    400026: Torus18
+    2100000: lavet
+    2100002: nj
+    2100004: Wood_Ash
+    2100006: CANVAS
+    2100008: atov
+    2100010: 9 - Default
+    2100012: atov1
+    2100014: Metal_Black_Plai
+    2100016: tov_anker
+    2300000: Box04
+    2300002: Helix07
+    2300004: Helix08
+    2300006: //RootNode
+    2300008: kanon06
+    2300010: Line11
+    2300012: tacle07
+    2300014: tacle08
+    2300016: Torus01
+    2300018: Torus14
+    2300020: Torus15
+    2300022: Torus16
+    2300024: Torus17
+    2300026: Torus18
+    3300000: Box04
+    3300002: Helix07
+    3300004: Helix08
+    3300006: //RootNode
+    3300008: kanon06
+    3300010: Line11
+    3300012: tacle07
+    3300014: tacle08
+    3300016: Torus01
+    3300018: Torus14
+    3300020: Torus15
+    3300022: Torus16
+    3300024: Torus17
+    3300026: Torus18
+    4300000: lavet06
+    4300002: Box04
+    4300004: tacle07
+    4300006: Torus17
+    4300008: Torus14
+    4300010: Helix07
+    4300012: tacle08
+    4300014: Torus01
+    4300016: Torus18
+    4300018: Helix08
+    4300020: kanon06
+    4300022: Line11
+    4300024: Torus15
+    4300026: Torus16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
